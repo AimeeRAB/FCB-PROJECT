@@ -7,7 +7,7 @@ This projects aims to analyze sales in a foam production company using data to i
 - Google forms
 - Ms Excel [Download Here](https://microsoft.com)
 - Questionnaire
--Sales record
+- Sales record
 
  
 
