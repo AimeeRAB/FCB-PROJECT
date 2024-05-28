@@ -13,6 +13,15 @@ This projects aims to analyze sales in a foam production company using data to i
 - **Python**
 - **Power BI**
 
+
+
+```
+Google Query Sheet
+
+SELECT *FROM TABLE 1
+WHERE CONDITION = MET
+
+```
  
 
 
